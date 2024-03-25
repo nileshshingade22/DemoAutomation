@@ -1,4 +1,4 @@
-package Automation;
+package automation;
 
 public class SumDiffMax {
 //Sum,DIff,Prod,Average,Distance, Min, Max
